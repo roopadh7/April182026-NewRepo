@@ -1,3 +1,3 @@
 #!/bin/bash
-i=username
+i=roopa
 echo "username: $i"
